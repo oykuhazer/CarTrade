@@ -7,7 +7,10 @@ Trade Car application is a versatile mobile app that allows users to explore car
 This application is an iOS application built on the foundation of the **MVVM architecture**.  The application manages data exchange using powerful frameworks such as **Firebase, RxSwift, Kingfisher, SnapKit and WebKit**. 
 
 ## Folder Structure 
-
+<p align="center">
+  <img src="https://github.com/oykuhazer/CarTrade/assets/130215854/9589d74c-a209-4c94-b727-a14c7f538735" alt="zyro-image" width="200" height="450" />
+    </p>
+    
 ## HomePage 
 <p align="center">
   <img src="https://github.com/oykuhazer/CarTrade/assets/130215854/b0f9fc81-3867-4e57-bf56-5caa66d0c728" alt="zyro-image" width="200" height="450" />
